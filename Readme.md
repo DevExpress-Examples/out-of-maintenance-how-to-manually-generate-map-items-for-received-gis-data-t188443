@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WinForms_MapControl_InformationLayer/Form1.cs) (VB: [Form1.vb](./VB/WinForms_MapControl_InformationLayer/Form1.vb))
+* [Program.cs](./CS/WinForms_MapControl_InformationLayer/Program.cs) (VB: [Program.vb](./VB/WinForms_MapControl_InformationLayer/Program.vb))
+<!-- default file list end -->
 # How to: manually generate map items for received GIS data
 
 
